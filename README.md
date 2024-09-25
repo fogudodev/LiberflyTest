@@ -27,7 +27,7 @@ Certifique-se de ter os seguintes softwares instalados:
 
 ```bash
 git clone https://github.com/fogudodev/LiberflyTest
-cd APIRest_Liberfly
+cd LiberflyTest
 ```
 
 ### 2. Instalar as dependências do PHP
